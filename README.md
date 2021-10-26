@@ -1,16 +1,17 @@
-### Hi there 👋
+<details>
+  
+<summary>Statistics</summary>
+<p>
 
-<!--
-**yalihan/yalihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Github Stats](https://github-readme-stats.vercel.app/api?username=yalihan&hide=contribs,prs,issues,stars&theme=dark&show_icons=true)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yalihan&theme=dark&layout=compact)](https://github.com/yalihan/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
+
+<details>
+
+<summary>Cv</summary>
+<p>
+
+![image](https://github.com/yalihan/yalihan/blob/main/Cv.png)
