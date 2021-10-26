@@ -3,7 +3,7 @@
 <summary>Github Stats</summary>
 <p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=yalihan&hide=contribs,prs,issues,stars&theme=dark&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=yalihan&hide=prs,issues&theme=dark&show_icons=true)
 
 </details>
 
